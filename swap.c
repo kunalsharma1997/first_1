@@ -1,5 +1,5 @@
 #include<stdio.h>
-#include<iostream.h>
+#include<iostream>
 void swap( int*,int*);
 int main()
 {
