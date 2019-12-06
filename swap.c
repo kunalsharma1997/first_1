@@ -1,6 +1,6 @@
 #include<stdio.h>
 #include<iostream>
-void swap( int*,int*);
+void swap( int* x,int* y);
 int main()
 {
 int a=3;
